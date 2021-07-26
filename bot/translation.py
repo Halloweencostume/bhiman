@@ -4,12 +4,12 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>Hey {}what are you doing here🖤!!</b>
-<i>Sorry💔 am a official bot of fast movei....😉
+    START_TEXT = """<b>Hey {}ഇവിടെ എന്തു ചെയ്യുന്നു🖤!!</b>
+<i>ക്ഷമിക്കണം💔 ഞാൻ ഫാസ്റ്റ് മൂവിയുടെ official ബോട്ട് ആണ്....😉
 
-You can't add me to your group💔💔
+നിങ്ങളുടെ group ill എന്നെ ചേർക്കാൻ നിങ്ങൾക്ക് കഴിയില്ല💔💔.. 
 
-If you want to make me contact him @mrbhiman44..❣️❣️
+നിങ്ങൾക്ക് എന്നെ ഉണ്ടാക്കണമെങ്കിൽ ഞങ്ങളുടെ രാജാവിനെ👑 ബന്ധപ്പെടുക @mrbhiman44..❣️❣️
 @mrbhiman12
 </i>"""    
     
@@ -47,7 +47,7 @@ If you want to make me contact him @mrbhiman44..❣️❣️
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/mrbhiman44">Mr_Bhiman</a></i></b>
+<b>➥ movie🎥</b> : <b><i><a href="https://t.me/mrbhiman12">movie channel🎥</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 

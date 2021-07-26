@@ -35,7 +35,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '☣️movei channel☣️', url='https://t.me/mrbhiman12'"
+                                    '☣️Movie channel☣️', url="https://t.me/mrbhiman12"
                                 )
                         ]
                     ]

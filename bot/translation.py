@@ -4,13 +4,13 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>Hey {}what are you doing here!!</b>
+    START_TEXT = """<b>Hey {}what are you doing here🖤!!</b>
 <i>Sorry💔 am a official bot of fast movei....😉
 
 You can't add me to your group💔💔
 
-If you want to make me contact him " @mrbhiman44 "..❣️❣️
-Movei channel ☣️ @mrbhiman12
+If you want to make me contact him @mrbhiman44..❣️❣️
+@mrbhiman12
 </i>"""    
     
     HELP_TEXT = """

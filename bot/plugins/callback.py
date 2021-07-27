@@ -142,7 +142,7 @@ async def cb_navg(bot, update: CallbackQuery):
     
     reply_markup = InlineKeyboardMarkup(temp_results)
     
-    text=f"<i>◼️ഇതിൽ ചേരുക 🖤 @mrbhiman 🖤...Found</i> <code>{leng}</code> <i>◼️™️𝐅𝐀𝐒𝐓 𝐌𝐎𝐕𝐄𝐈❣️:</i> <code>{query}</code>"
+    text=f"<i>◼️ഇതിൽ ചേരുക❤ @mrbhiman 🖤</i> <code>{leng}</code> <i>◼️™️𝐅𝐀𝐒𝐓 𝐌𝐎𝐕𝐄𝐈❣️:</i> <code>{query}</code>"
         
     try:
         await update.message.edit(
